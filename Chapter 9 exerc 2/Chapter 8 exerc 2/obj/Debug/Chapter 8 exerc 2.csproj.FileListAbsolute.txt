@@ -1,0 +1,6 @@
+C:\Users\Programming14\source\repos\Chapter 8 exerc 2\Chapter 8 exerc 2\bin\Debug\Chapter 8 exerc 2.dll
+C:\Users\Programming14\source\repos\Chapter 8 exerc 2\Chapter 8 exerc 2\bin\Debug\Chapter 8 exerc 2.pdb
+C:\Users\Programming14\source\repos\Chapter 8 exerc 2\Chapter 8 exerc 2\obj\Debug\Chapter 8 exerc 2.csprojAssemblyReference.cache
+C:\Users\Programming14\source\repos\Chapter 8 exerc 2\Chapter 8 exerc 2\obj\Debug\Chapter 8 exerc 2.csproj.CoreCompileInputs.cache
+C:\Users\Programming14\source\repos\Chapter 8 exerc 2\Chapter 8 exerc 2\obj\Debug\Chapter 8 exerc 2.dll
+C:\Users\Programming14\source\repos\Chapter 8 exerc 2\Chapter 8 exerc 2\obj\Debug\Chapter 8 exerc 2.pdb

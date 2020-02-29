@@ -1,0 +1,4 @@
+C:\Users\Programming14\source\repos\Chapter 9 exerc 3\Chapter 9 exerc 3\obj\Debug\netcoreapp2.1\Chapter 9 exerc 3.csprojAssemblyReference.cache
+C:\Users\Programming14\source\repos\Chapter 9 exerc 3\Chapter 9 exerc 3\obj\Debug\netcoreapp2.1\Chapter 9 exerc 3.csproj.CoreCompileInputs.cache
+C:\Users\Programming14\source\repos\Chapter 9 exerc 3\Chapter 9 exerc 3\obj\Debug\netcoreapp2.1\Chapter 9 exerc 3.AssemblyInfoInputs.cache
+C:\Users\Programming14\source\repos\Chapter 9 exerc 3\Chapter 9 exerc 3\obj\Debug\netcoreapp2.1\Chapter 9 exerc 3.AssemblyInfo.cs
